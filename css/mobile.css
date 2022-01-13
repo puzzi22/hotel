@@ -1,0 +1,81 @@
+#navbar .logo {
+   float: none;
+   text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+   float: none;
+}
+
+#navbar ul li a {
+   padding: 5px;
+   border-bottom: #444 solid 1px;
+}
+
+/* Showcase */
+#showcase .showcase-content {
+   height: 100%;
+   padding-top: 70px;
+   padding-bottom: 30px;
+}
+
+/* Home Info */
+#home-info {
+   height: 470px;
+}
+
+#home-info .info-img {
+   display: none;
+}
+
+#home-info .info-content {
+   float: none;
+   width: 100%;
+}
+
+/* Boxes */
+.box {
+   float: none;
+   width: 100%;
+   padding: 30px;
+}
+
+/* About */
+#about-info .info-right,
+#about-info .info-left {
+   float: none;
+   width: 100%;
+}
+
+.l-heading {
+   text-align: center;
+}
+
+#about-info .info-right {
+   display: none;
+}
+
+/* Contact */
+#contact-form {
+   text-align: left;
+}
+
+#contact-form input,
+#contact-form textarea {
+   width: 100%;
+}
+
+#contact-form .btn {
+   float: none;
+   width: 100%;
+}
+
+#contact-info .box {
+   border-bottom: #444 dotted 1px;
+}
+
+.box i {
+   font-size: 35px;
+}
+
